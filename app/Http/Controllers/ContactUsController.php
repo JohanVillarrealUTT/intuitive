@@ -10,7 +10,7 @@ class ContactUsController extends Controller
 {
     public function index()
     {
-        return view('contactUs.index');
+        return view('home');
     }
 
     public function store(Request $request)

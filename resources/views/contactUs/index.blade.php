@@ -1,4 +1,4 @@
-<form action="{{ route('contactUs.store') }}" method="POST">
+{{-- <form action="{{ route('contactUs.store') }}" method="POST">
         @csrf
 
         <div>
@@ -71,3 +71,4 @@
         alert("{{ session('info') }}");
     </script>
 @endif
+ --}}
