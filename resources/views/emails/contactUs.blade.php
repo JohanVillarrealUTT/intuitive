@@ -32,6 +32,19 @@
             margin-bottom: 10px;
         }
 
+        ul {
+            margin-bottom: 10px;
+            padding-left: 20px;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: #0066cc;
+        }
+
         .footer {
             margin-top: 20px;
             padding-top: 10px;
@@ -64,4 +77,3 @@
     </div>
 </body>
 </html>
-
